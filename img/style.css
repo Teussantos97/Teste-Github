@@ -1,0 +1,43 @@
+.footer span {
+    display: inline;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+    text-align: right;
+    text-decoration: none;
+}
+
+.footer-credits{
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.body{
+    line-height: 1;
+}
+
+html {
+    font-size: 10px;
+}
+
+.main-logo {
+    position: absolute;
+    top: 380px;
+    left: 300px;
+}
+
+div {
+    display: block;
+}
+
+.left-section {
+    background-color: whitesmoke;
+    position: absolute;
+}
+.app-main {
+    background: url(http://ydirection.com/Aria/assets/images/bg1.png) no-repeat center center;
+    background-size: cover;
+}
+
+
